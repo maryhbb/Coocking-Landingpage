@@ -1,6 +1,12 @@
 .form-section {
     margin: 2rem 0;
 }
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
 
 .bekannt {
     display: flex;
@@ -16,12 +22,26 @@
 }
 
 .wilkommen-section {
-    /* debugging start */
-    min-height: 80px;
-    background: purple;
-    /* debugging end */
+
 }
 
+.col1 {
+    background-color: aqua;
+}
+
+.col2 img {
+    width: 100%;
+}
+
+.vid1 {
+    width: 100%;
+}
+
+.vid2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
 .video-section {
     /* debugging start */
     min-height: 80px;
@@ -34,10 +54,7 @@
 }
 
 .bottom-nav {
-    /* debugging start */
-    min-height: 80px;
-    background: green;
-    /* debugging end */
+
 }
 
 .footer {
