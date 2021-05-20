@@ -3,43 +3,49 @@
 }
 
 .bekannt {
-    /* debugging start */
-    min-width: 40px;
-    background: blue;
-    /* debugging end */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+.bekannt img {
+   margin: 0 1rem;
+    width: 80px;
 }
 
 .wilkommen-section {
     /* debugging start */
-    min-width: 40px;
+    min-height: 80px;
     background: purple;
     /* debugging end */
 }
 
 .video-section {
     /* debugging start */
-    min-width: 40px;
+    min-height: 80px;
     background: yellow;
     /* debugging end */
 }
 
 .faq-section {
     /* debugging start */
-    min-width: 40px;
+    min-height: 80px;
     background: red;
     /* debugging end */
 }
 
 .bottom-nav {
     /* debugging start */
-    min-width: 40px;
+    min-height: 80px;
     background: green;
     /* debugging end */
 }
 
 .footer {
     /* debugging start */
-    min-width: 40px;
+    min-height: 80px;
     background: gray;
     /* debugging end */
 }
