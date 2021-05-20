@@ -1,0 +1,48 @@
+.form-section {
+    /* debugging start */
+    min-width: 40px;
+    background: gold;
+    /* debugging end */
+}
+
+.bekannt{
+    /* debugging start */
+    min-width: 40px;
+    background: blue;
+    /* debugging end */
+}
+
+.wilkommen-section {
+    /* debugging start */
+    min-width: 40px;
+    background: purple;
+    /* debugging end */
+}
+
+.video-section {
+    /* debugging start */
+    min-width: 40px;
+    background: yellow;
+    /* debugging end */
+}
+
+.faq-section {
+    /* debugging start */
+    min-width: 40px;
+    background: red;
+    /* debugging end */
+}
+
+.bottom-nav {
+    /* debugging start */
+    min-width: 40px;
+    background: green;
+    /* debugging end */
+}
+
+.footer {
+    /* debugging start */
+    min-width: 40px;
+    background: gray;
+    /* debugging end */
+}
