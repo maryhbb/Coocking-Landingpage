@@ -1,11 +1,9 @@
 .form-section {
     margin: 2rem 0;
 }
-.navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 100;
+
+.form {
+    margin-top: 40px;
 }
 
 .bekannt {
@@ -17,7 +15,7 @@
 }
 
 .bekannt img {
-   margin: 0 1rem;
+    margin: 1rem 1rem;
     width: 80px;
 }
 
@@ -26,40 +24,27 @@
 }
 
 .col1 {
-    background-color: aqua;
+    margin-top: 40px;
 }
 
 .col2 img {
     width: 100%;
+    margin-top: 40px;
 }
 
 .vid1 {
-    width: 100%;
+    margin-top: 40px
 }
 
 .vid2 {
     display: flex;
     justify-content: center;
     margin-top: 40px;
+    margin-bottom: 40px;
 }
-.video-section {
-    /* debugging start */
-    min-height: 80px;
-    background: yellow;
-    /* debugging end */
-}
-
-.faq-section {
-
+.accordion {
+    margin-top: 30px;
+    margin-bottom: 80px;
 }
 
-.bottom-nav {
 
-}
-
-.footer {
-    /* debugging start */
-    min-height: 80px;
-    background: gray;
-    /* debugging end */
-}
