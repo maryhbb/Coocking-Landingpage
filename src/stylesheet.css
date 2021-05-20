@@ -1,11 +1,8 @@
 .form-section {
-    /* debugging start */
-    min-width: 40px;
-    background: gold;
-    /* debugging end */
+    margin: 2rem 0;
 }
 
-.bekannt{
+.bekannt {
     /* debugging start */
     min-width: 40px;
     background: blue;
